@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1459225192 source:c:\users\equipo\documents\metodos de inteligencia\proyecto agente viajero\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string>
+	<sstream>
+	<stdlib.h>
+

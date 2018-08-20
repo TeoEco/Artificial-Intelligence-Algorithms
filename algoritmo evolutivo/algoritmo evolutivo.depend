@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1456852764 source:c:\users\equipo\documents\metodos de inteligencia\algoritmo evolutivo\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

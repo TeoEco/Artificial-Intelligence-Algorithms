@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1462160102 source:c:\users\equipo\documents\metodos de inteligencia\redes neuronales\algoritmo backpropagation\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	<math.h>
+

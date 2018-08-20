@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1462220474 source:c:\users\equipo\documents\metodos de inteligencia\redes neuronales\red neuronal\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	<math.h>
+

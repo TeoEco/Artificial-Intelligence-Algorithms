@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462763414 source:c:\users\equipo\documents\metodos de inteligencia\redes neuronales\red neuronal proyecto final\main.cpp
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+
